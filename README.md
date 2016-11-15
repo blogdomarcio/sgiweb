@@ -1,2 +1,8 @@
-"# sgiweb"  git init git add README.md git commit -m "first commit" git remote add origin https://github.com/blogdomarcio/sgiweb.git git push -u origin master
-"# sgiweb" 
+#SigWeb
+
+#Sistema Integrado de Gerenciamento
+
+Projeto em laravel de um sistema de estoque, controle de clientes e contas a receber e outras implementações futuras como: NFE, GED...
+
+--------
+
